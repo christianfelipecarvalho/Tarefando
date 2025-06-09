@@ -1,0 +1,23 @@
+# Arquivos de desenvolvimento do Visual Studio
+.vs/
+.vscode/
+*.user
+
+# Arquivos de build (serão recriados no container)
+bin/
+obj/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Git (não necessário no container)
+.git/
+.gitignore
